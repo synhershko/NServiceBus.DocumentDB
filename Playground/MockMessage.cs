@@ -1,0 +1,6 @@
+﻿namespace Playground
+{
+    class MockMessage
+    {
+    }
+}
